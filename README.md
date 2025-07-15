@@ -21,6 +21,11 @@ remaining unclicked positions in yellow.
 ![Remember Pattern Middle](screenshots/RememberPattarnMiddle.png)  
   
 ![Remember Pattern End](screenshots/RememberPatternEnd.png)
+## Execution of Code
+1. **Compile the code**
+javac -d build src/all/*.java src/abstractions/*.java src/enums/*.java src/exceptions/*.java src/rememberpattern/*.java src/MemoryGame.java
+2. **Run the program**
+java -cp build MemoryGame
 ## Technologies Used
 - Java 21
 - Java Swing
