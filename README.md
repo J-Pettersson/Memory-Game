@@ -15,6 +15,12 @@ If the player clicks on the incorrect position 3 times, the game ends and displa
 remaining unclicked positions in yellow.
 #### Features
 - **Multiple difficulty levels**: The grid can be modified to sizes between 3x3 and 10x10. The default size is 5x5.
+#### Screenshots
+![Remember Pattern Start](screenshots/RememberPatternStart.png)  
+  
+![Remember Pattern Middle](screenshots/RememberPattarnMiddle.png)  
+  
+![Remember Pattern End](screenshots/RememberPatternEnd.png)
 ## Technologies Used
 - Java 21
 - Java Swing
